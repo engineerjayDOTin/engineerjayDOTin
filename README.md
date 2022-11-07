@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @engineerjayDOTin
+- 👋 Hi, I’m Dhananjay
 - 👀 I’m interested in DevOps
 - 🌱 I’m currently learning Docker, Kubernetes, Ansible, Terraform CI/CD Pipepile..
 - 💞️ I’m looking to collaborate on DevOps project.
